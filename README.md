@@ -62,3 +62,113 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [license-url]: LICENSE
 [codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
 [codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
+[
+    {
+        "key": "datr",
+        "value": "vGYZaZSVxkgdE4JmbHhWOTlC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.325Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "sb",
+        "value": "vGYZaWow544fIcDTTWIacJiO",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.875",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "wd",
+        "value": "385x854",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61568706302157",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "xs",
+        "value": "47%3A_0lO3STwwm1Www%3A2%3A1763272421%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "fr",
+        "value": "0pVrHdRJlhyGHlEGo.AWfszRVBCyy42UYD4cwBvKHmjdP4cfdrw74xaTdvP-3qZbEm148.BpGWa8..AAA.0.0.BpGWb1.AWcOrwHb4aVGriOeanPwYc47zjM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "pas",
+        "value": "61568706302157%3A2UtY0mNpaT",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2986%3Btimestamp%3A1763272437",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101423842%3BT%3A29387873",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B766x384x1.875",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-16T05:56:09.327Z",
+        "lastAccessed": "2025-11-16T05:56:09.327Z"
+    }
+]
